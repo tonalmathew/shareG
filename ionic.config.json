@@ -1,0 +1,7 @@
+{
+  "name": "shareG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
